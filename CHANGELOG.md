@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.2.1 (2025-12-21)
+
+### Improvements
+
+* A `:timeout` timeout option is added to `DenoRider.eval/2`.
+
+### Fixes
+
+* `Cargo.lock` is reinstated to the Hex package.
+
 ## 0.2.0 (2025-03-31)
 
 ### Improvements
